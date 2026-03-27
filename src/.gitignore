@@ -1,0 +1,20 @@
+# Build folder
+build/
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+
+# VS Code (optional)
+.vscode/
+
+# OS files
+.DS_Store
