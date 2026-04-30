@@ -1,6 +1,7 @@
 HELIOTROPIC SUNFLOWER SIMULATION
  
 OVERVIEW
+
 This project is a 3D simulation of a sunflower that follows the sun (heliotropism) using OpenGL and C++.
 It demonstrates computer graphics concepts like transformations, interpolation, shading, and animation.
 
